@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+I am currently working on api development with flask with react on front end, I also have expertize on oracle ERP consultation.
 
 - 🔭 I’m currently working on ...React+flask
 - 🌱 I’m currently learning ...material-ui
