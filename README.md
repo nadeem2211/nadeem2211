@@ -1,14 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I am Nadeem 👨‍💻
 
 
-I am currently working on api development with flask with react on front end, I also have expertize on oracle ERP consultation.
+I am currently working on api development using flask with react on front end, I also have expertize on oracle ERP consultation.
 
-- 🔭 I’m currently working on ...React+flask
-- 🌱 I’m currently learning ...material-ui
-- 👯 I’m looking to collaborate on ...reactJs
-- 🤔 I’m looking for help with ...projects
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...nadeem_naddy@live.com
-- 😄 Pronouns: ...He/She/I/They/You
-- ⚡ Fun fact: ...It's funny :)
--->
+ ### Tech Stack
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 Python | Unix | SQL 
+* 🖇️ Flask | Flask-RestFul | SQLAlchemy
+* 💠 ReactJs | Material-ui
+* :octocat: Git | Github
+* 🛢️ MySQL | SQLite | Postgres | Oracle
+* 🌐 HTML | CSS | Material-ui
+* ☁ Oracle ERP | PLSQL | Oracle Apps Tech
+
+
+## 📫 Get in touch
+- LinkedIn - [Nadeem](www.linkedin.com/in/nadeem2211)
+
+ or give some ♥ on [mail](mailto:nadeem_naddy@live.com) .
