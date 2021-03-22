@@ -18,7 +18,6 @@ Here are a few things I've picked up along my learning journey.
 
 <img align="left" alt="Nadeem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nadeem2211&show_icons=true&hide_border=true&&count_private=true&show_icons=true&hide=stars,prs,issues,contribs" />
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem2211&layout=compact)](https://github.com/nadeem2211/github-readme-stats)
 
 
