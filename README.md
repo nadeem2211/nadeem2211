@@ -16,7 +16,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## 📫 Get in touch
-- LinkedIn - [Nadeem](www.linkedin.com/in/nadeem2211)
+- LinkedIn - [Nadeem](https://in.linkedin.com/in/nadeem2211)
 
  or give some ♥ on [mail](mailto:nadeem_naddy@live.com) .
 
