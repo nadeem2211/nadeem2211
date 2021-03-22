@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nadeem 👨‍💻
 
 
-I am currently working on api development using flask with react on front end, I also have expertize on oracle ERP consultation.
+I am currently working on APIs development using flask with react on front end, I also have expertize on oracle ERP consultation.
 
  ### Tech Stack
 Here are a few things I've picked up along my learning journey.
