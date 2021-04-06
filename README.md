@@ -6,7 +6,7 @@ I am currently working on APIs development using flask with react on front end, 
  ### Tech Stack
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 Python | Unix | SQL 
+* 🐍 Python | Unix | SQL 
 * 🖇️ Flask | Flask-RestFul | SQLAlchemy
 * 💠 ReactJs | Material-ui
 * :octocat: Git | Github
