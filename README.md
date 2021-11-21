@@ -13,6 +13,7 @@ Here are a few things I've picked up along my learning journey.
 * 🛢️ MySQL | SQLite | Postgres | Oracle
 * 🌐 HTML | CSS | Material-ui
 * ☁ Oracle ERP | PLSQL | Oracle Apps Tech
+* UC4 automic workflow scheduler
 
 ## **My GitHub Stats**
 
