@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Nadeem 👨‍💻
 
 
-I am currently working on APIs development using flask with react on front end, I also have expertize on oracle ERP consultation.
+I am Interested to talk about Algorithms and Data strutures using C++ to solve complex problems, I also have expertize on oracle ERP consultation and APIs development using flask with react on front end.
 
  ### Tech Stack
 Here are a few things I've picked up along my learning journey.
 
-* 🐍 Python | Unix | SQL 
+* 🐍 Python | C++ | Unix | SQL 
 * 🖇️ Flask | Flask-RestFul | SQLAlchemy
 * 💠 ReactJs | Material-ui
 * :octocat: Git | Github
@@ -25,7 +25,7 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 - LinkedIn - [Nadeem](https://in.linkedin.com/in/nadeem2211)
 
- or give some ♥ on [mail](mailto:nadeem_naddy@live.com) .
+ or give some ♥ on [mail](mailto:nadeemq2211@outlook.com) .
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nadeem2211/nadeem2211)
