@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nadeem 👨‍💻
 
-
-I am Interested to talk about Algorithms and Data strutures using C++ to solve complex problems, I also have expertize on oracle ERP consultation and APIs development using flask with react on front end.
+I have expertize on oracle cloud infra, integration cloud and ReST APIs development. hands on experience working with various industries client like manufacturers, distributers and retailers etc.
+I am also Interested to talk about Algorithms and Data strutures using C++ to solve complex problems.
 
  ### Tech Stack
 Here are a few things I've picked up along my learning journey.
